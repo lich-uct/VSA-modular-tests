@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "numlib.h"
 
+// dokumentace
 int main(void) {
   int values[] = { 2, 4, 6, 8 };
 
