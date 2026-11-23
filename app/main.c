@@ -2,6 +2,7 @@
 #include "numlib.h"
 
 // dokumentace
+// vic dokumentace
 int main(void) {
   int values[] = { 2, 4, 6, 8 };
 
